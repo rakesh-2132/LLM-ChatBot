@@ -5,7 +5,7 @@
    - Open the terminal in VS Code.
    - Run the following command to clone the repository:
      ```sh
-     git clone https://github.com/rakesh-2132/LLM-ChatBot.git
+     https://github.com/rakesh-2132/LLM-ChatBot
      ```
 
 3. **Navigate to the Repository Directory:**
